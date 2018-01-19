@@ -1,6 +1,7 @@
 # backPosDemo
 
 > 这个示例演示的是：在使用vue-router切换路由时，如何在返回前一页时定位到上次的滚动位置。
+直接看效果：https://laning312.github.io/testDist/dist/
 
 ## Build Setup
 
